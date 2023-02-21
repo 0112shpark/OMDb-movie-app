@@ -17,7 +17,8 @@ Movie searching website with OMDb API.
 ## 💡Features
 
 - Provide Movie searching using OMDb API.
-- Header components.
+- Header and footer components.
+- Use footer to visit my Github repository.
 - `View more` button to show more results.
 - `About` page.
 
