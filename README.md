@@ -21,6 +21,7 @@ Movie searching website with OMDb API.
 - Use footer to visit my Github repository.
 - `View more` button to show more results.
 - `About` page.
+- `Page Not Found` error page when user access wrong page.
 
 ## ⛏️Built with
 
