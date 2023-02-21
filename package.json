@@ -1,0 +1,23 @@
+{
+  "name": "omdb",
+  "version": "1.0.0",
+  "description": "OMDb-movie-app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./index.html",
+    "build": "parcel build ./index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0112shpark/OMDb-movie-app.git"
+  },
+  "author": "0112shpark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0112shpark/OMDb-movie-app/issues"
+  },
+  "homepage": "https://github.com/0112shpark/OMDb-movie-app#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}

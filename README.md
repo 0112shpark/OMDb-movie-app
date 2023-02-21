@@ -50,7 +50,7 @@ Reset the Browser's CSS style for Cross Browsing.
 2. Init the `npm project`.
    - `npm init`
 3. Install `parcel bundler`.
-   - `npm install -D parcel `
+   - `npm i -D parcel `
 4. Run developing server with following command.
    - `npm run dev`
 5. Visit the site with domain name `localhost/####`.
