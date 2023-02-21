@@ -1,7 +1,7 @@
 # 🎥 OMDb API Movie APP
 
 <div align="center">
-<img width=" 100px" height=100px src ="./images/markdown_logo.png" alt = "logo">
+<img src ="./images/totalview.gif" alt = "logo">
 </div>
 
 ---
@@ -21,7 +21,14 @@ Movie searching website with OMDb API.
 - Use footer to visit my Github repository.
 - `View more` button to show more results.
 - `About` page.
+<div align="center">
+<img width= 400px src ="./images/about.jpg" alt = "error">
+</div>
+
 - `Page Not Found` error page when user access wrong page.
+<div align="center">
+<img width= 400px src ="./images/notfound.jpg" alt = "error">
+</div>
 
 ## ⛏️Built with
 
