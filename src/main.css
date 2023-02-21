@@ -4,6 +4,7 @@ html {
   --color-white-50: rgba(255, 255, 255, 0.5);
   --color-white-30: rgba(255, 255, 255, 0.3);
   --color-white-20: rgba(255, 255, 255, 0.2);
+  --color-white-10: rgba(255, 255, 255, 0.1);
   --color-white-5: rgba(255, 255, 255, 0.05);
   --color-primary: #fdc000;
   --color-hover: #f86a05;
@@ -342,4 +343,11 @@ footer a:hover {
 }
 .about a:hover {
   text-decoration: underline;
+}
+
+.not-found h1 {
+  font-size: 70px;
+  font-weight: 700;
+  color: var(--color-white-10);
+  text-align: center;
 }
