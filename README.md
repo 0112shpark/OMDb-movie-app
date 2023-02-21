@@ -40,6 +40,24 @@ Reset the Browser's CSS style for Cross Browsing.
 />
 ```
 
+<h3>🔥Google Fonts and Material Icons</h3>
+
+---
+
+⭐ Following Fonts are used in this project.
+
+- `Roboto`: Regular 400, bold 700.
+- `Oswald`: Medium 500.
+
+```html
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  href="https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Roboto:wght@400;700&display=swap"
+  rel="stylesheet"
+/>
+```
+
 ## 🏃Getting Started
 
 ### 📌 Start at local device
@@ -47,8 +65,9 @@ Reset the Browser's CSS style for Cross Browsing.
 - This project works on the device with `node.js` installesd.
 
 1. Clone this repository.
-2. Init the `npm project`.
-   - `npm init`
+   - `git clone https://github.com/0112shpark/OMDb-movie-app.git`
+2. Move directory into the folder `OMDb-movie-app`
+   - `cd OMDb-movie-app`
 3. Install `parcel bundler`.
    - `npm i -D parcel `
 4. Run developing server with following command.
