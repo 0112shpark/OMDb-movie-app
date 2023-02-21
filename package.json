@@ -2,7 +2,6 @@
   "name": "omdb",
   "version": "1.0.0",
   "description": "OMDb-movie-app",
-  "main": "index.js",
   "scripts": {
     "dev": "parcel ./index.html",
     "build": "parcel build ./index.html"
