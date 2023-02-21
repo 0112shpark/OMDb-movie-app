@@ -17,6 +17,9 @@ Movie searching website with OMDb API.
 ## 💡Features
 
 - Provide Movie searching using OMDb API.
+- Header components.
+- `View more` button to show more results.
+- `About` page.
 
 ## ⛏️Built with
 
