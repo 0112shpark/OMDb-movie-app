@@ -4,6 +4,7 @@ export class Component {
     const { tagName = "div", state = {}, props = {} } = payload;
     this.el = document.createElement(tagName);
     this.state = state;
+    this.props = props;
     this.render();
   }
   render() {}
@@ -61,7 +62,9 @@ export class Store {
         },
         set: (val) => {
           state[key] = val;
-          this.observers[key].forEach((observer) => observer(val));
+          if (Array.isArray(this.observers[key])) {
+            this.observers[key].forEach((observer) => observer(val));
+          }
         },
       });
     }
