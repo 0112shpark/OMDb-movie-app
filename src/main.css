@@ -170,6 +170,18 @@ header .user img {
   color: var(--color-white-30);
 }
 
+footer {
+  padding: 40px 40px 60px;
+  text-align: center;
+}
+footer a {
+  color: var(--color-white-20);
+  text-decoration: none;
+}
+footer a:hover {
+  text-decoration: underline;
+}
+
 .search {
   display: flex;
   gap: 10px;
