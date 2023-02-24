@@ -8,7 +8,7 @@
 
 # :bell: Visit the site
 
-➡️
+➡️[Movie site](https://om-db-movie-app.vercel.app/#/)
 
 ## 🧐 About
 
@@ -82,7 +82,7 @@ Reset the Browser's CSS style for Cross Browsing.
    - `cd OMDb-movie-app`
 3. Install `parcel bundler`.
    - `npm i -D parcel `
-4. Install `vercel bundler`.
+4. Install `vercel bundler`.(only if API set succeed)
    - `npm i -D vercel `
 5. Run developing server with following command.
    - `npm run dev`
@@ -91,3 +91,6 @@ Reset the Browser's CSS style for Cross Browsing.
 ## 🔑 API key Issue
 
 ⚠️ API KEY is a sensitive information when we try to access server. API key should be protected and not be shown to users.
+
+I tried to hide API key, but `handler function` in `api` folder gives me a `502 bad gateway error`.  
+Can't figure out solutions..
