@@ -46,15 +46,15 @@ export const searchMovies = async (page) => {
 
 export const getMovieDetails = async (id) => {
   try {
-    // const res = await fetch(
-    //   `https://omdbapi.com?apikey=d55d3038&i=${id}&plot=full`
-    // );
-    const res = await fetch("/api/movie", {
-      method: "POST",
-      body: JSON.stringify({
-        id,
-      }),
-    });
+    const res = await fetch(
+      `https://omdbapi.com?apikey=d55d3038&i=${id}&plot=full`
+    );
+    // const res = await fetch("/api/movie", {
+    //   method: "POST",
+    //   body: JSON.stringify({
+    //     id,
+    //   }),
+    // });
     store.state.movie = await res.json();
   } catch (error) {
     console.log("getMovieDetails error:", error);
