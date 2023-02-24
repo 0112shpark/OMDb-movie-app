@@ -18,7 +18,11 @@
   },
   "homepage": "https://github.com/0112shpark/OMDb-movie-app#readme",
   "devDependencies": {
+    "dotenv": "^16.0.3",
     "parcel": "^2.8.3",
     "vercel": "^28.16.6"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.9"
   }
 }
