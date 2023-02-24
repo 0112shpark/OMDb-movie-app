@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/0112shpark/OMDb-movie-app#readme",
   "devDependencies": {
-    "parcel": "^2.8.3"
+    "parcel": "^2.8.3",
+    "vercel": "^28.16.6"
   }
 }

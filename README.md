@@ -82,8 +82,12 @@ Reset the Browser's CSS style for Cross Browsing.
    - `cd OMDb-movie-app`
 3. Install `parcel bundler`.
    - `npm i -D parcel `
-4. Run developing server with following command.
+4. Install `vercel bundler`.
+   - `npm i -D vercel `
+5. Run developing server with following command.
    - `npm run dev`
-5. Visit the site with domain name `localhost/####`.
+6. Visit the site with domain name `localhost/####`.
 
 ## 🔑 API key Issue
+
+⚠️ API KEY is a sensitive information when we try to access server. API key should be protected and not be shown to users.
