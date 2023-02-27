@@ -94,3 +94,5 @@ Reset the Browser's CSS style for Cross Browsing.
 
 I tried to hide API key, but `handler function` in `api` folder gives me a `502 bad gateway error`.  
 Can't figure out solutions..
+
+- Solution: My project path includes `space`, and terminal can not read `space`. To solve, move the directory to the path without and `space`.
