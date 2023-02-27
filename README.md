@@ -12,7 +12,7 @@
 
 ➡️[Movie site with _JAVASCRIPT_](https://om-db-movie-app.vercel.app/#/)
 
-➡️[Movie site with _TYPESCRIPT_](https://om-db-movie-app.vercel.app/#/)
+➡️[Movie site with _TYPESCRIPT_](https://om-db-movie-app-git-typescript-0112shpark.vercel.app/#/)
 
 ## 🧐 About
 
