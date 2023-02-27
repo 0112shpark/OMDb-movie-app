@@ -20,7 +20,7 @@
   "devDependencies": {
     "dotenv": "^16.0.3",
     "parcel": "^2.8.3",
-    "vercel": "^28.16.6"
+    "vercel": "^28.16.7"
   },
   "dependencies": {
     "node-fetch": "^2.6.9"
