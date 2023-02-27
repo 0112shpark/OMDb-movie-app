@@ -84,9 +84,11 @@ Reset the Browser's CSS style for Cross Browsing.
    - `npm i -D parcel `
 4. Install `vercel bundler`.(only if API set succeed)
    - `npm i -D vercel `
-5. Run developing server with following command.
-   - `npm run dev`
-6. Visit the site with domain name `localhost/####`.
+5. Install `env bundler`.(only if API set succeed)
+   - `npm i -D dotenv `
+6. Run developing server with following command.
+   - `npm run vercel`
+7. Visit the site with domain name `localhost/####`.
 
 ## 🔑 API key Issue
 
