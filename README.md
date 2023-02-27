@@ -93,6 +93,6 @@ Reset the Browser's CSS style for Cross Browsing.
 ⚠️ API KEY is a sensitive information when we try to access server. API key should be protected and not be shown to users.
 
 I tried to hide API key, but `handler function` in `api` folder gives me a `502 bad gateway error`.  
-Can't figure out solutions..
+<del>Can't figure out solutions..<del>
 
 - Solution: My project path includes `space`, and terminal can not read `space`. To solve, move the directory to the path without and `space`.
