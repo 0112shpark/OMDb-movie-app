@@ -8,7 +8,7 @@
 
 # :bell: Visit the site
 
-➡️[Go to branch _JAVASCRIPT_](https://om-db-movie-app.vercel.app/#/)
+➡️[Go to branch _JAVASCRIPT_](https://github.com/0112shpark/OMDb-movie-app/tree/main)
 
 ➡️[Movie site with _JAVASCRIPT_](https://om-db-movie-app.vercel.app/#/)
 
@@ -21,7 +21,7 @@ Movie searching website with OMDb API with Javascript and Typescript.
 ## 💡Features
 
 - Provide `Typing`, from `javascript` to `typescript`.
-  - ➡️[Go to branch _JAVASCRIPT_](https://om-db-movie-app.vercel.app/#/)
+  - ➡️[Go to branch _JAVASCRIPT_](https://github.com/0112shpark/OMDb-movie-app/tree/main)
 - Provide Movie searching using OMDb API.
 - Header and footer components.
 - Use footer to visit my Github repository.
